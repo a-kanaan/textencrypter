@@ -135,31 +135,31 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>umR2pZHzBdOMAM7ddakPZgI4zns=</dsig:DigestValue>
+        <dsig:DigestValue>bDpRtkUJoRXUmb0WjcAiEvPt4tk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TextEncrypter.application" size="14959">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TextEncrypter.application" size="6879">
       <assemblyIdentity name="TextEncrypter.application" version="1.0.0.5" publicKeyToken="d631dcda0cd3ace7" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>OgJuG7YK0nYFC2rkbpeoxRQSQrM=</dsig:DigestValue>
+        <dsig:DigestValue>BqNtIviED/cffbuD7EX9Jzv65q4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ar\TextEncrypter.resources.dll" size="209336">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ar\TextEncrypter.resources.dll" size="210360">
       <assemblyIdentity name="TextEncrypter.resources" version="1.0.0.0" language="ar" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>RQlFe4afMDQXAcRHvColbl3A6Ac=</dsig:DigestValue>
+        <dsig:DigestValue>pIvRef5MVRSlimZ4bBr5Z0pu6i4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -172,78 +172,6 @@
       <dsig:DigestValue>W6qXZTyN9197623DnJIS6Ys9xaw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\back.ico" size="92582">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>dbDfyAkX5m46/kLZ8V5u8JpJk5M=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\checkmark.png" size="6867">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>loHb4IojA/8ksLmDDr8vK/svcCg=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\edit.ico" size="92582">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>YdVQCpbtl7i8nRifqX0VSJ3JL0o=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\email.ico" size="92582">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>X2MRlOdCshn6DyvoMhvGn5o/OC4=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\Excel1.bmp" size="286774">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>gDNJUfv2mAQY4Z9rVeftrtD3JhA=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\front.ico" size="92582">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>4AyWNIPc+ExUpKKAzYflf+9IQso=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\ico1111.ico" size="23246">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>cDeAkzbPjzv6z2yUIoJCLBQe3x8=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\ico401.ico" size="10134">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>BSTpY56jj2jFEbSSzRhEdaJDCdE=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="Resources\key.png" size="2201">
     <hash>
       <dsig:Transforms>
@@ -251,24 +179,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>EpGvSNyp+7dNZCVbvjwQScaSasI=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\KKMenu_System_Security.png" size="29629">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>e6/SRCvRfgbKHYCQSWJwUig/YNc=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\lock.ico" size="92582">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>rwmhD0StYkvrTNEdL76rT9toxBo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\lock.png" size="889">
@@ -307,24 +217,6 @@
       <dsig:DigestValue>RgYnX66vfmlWkGhhY3ZvdsUQwUs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\save as.ico" size="92582">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>KPdICKwR4D7A+7vr+i9TFV1f61A=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\unlock.ico" size="92582">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>iDn4yvFEkDrB7IfV8flc/2exKUo=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="Resources\unlock.png" size="680">
     <hash>
       <dsig:Transforms>
@@ -332,24 +224,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>IrFslU04CMWwBA0Kk46EdxHbPjY=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\unlock1.png" size="4578">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>/QPmQfnJw8NuTz/cNirM/XRx4FM=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\Word1.bmp" size="288954">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>8TKRVyr+BDuSIE1LD+ihaf6b3bE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\Write Document.png" size="31225">
@@ -388,4 +262,4 @@
     </application>
   </compatibility>
   
-<publisherIdentity name="CN=Kanaan" issuerKeyHash="c177198f846d60817f66ab5369d04580bee5ccd8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>XGmYFKyjB6JjVK4Nq19bCuTqpUU=</DigestValue></Reference></SignedInfo><SignatureValue>KyhWL3dSym2oaLt0MfoVdG0pC0sQxK0GiSj0AHRKJWxfFG5jSEGS0yht4eOGUpnjmBBO5pH/l8VxPdpLfHc8xVq4xCdQhJTy5ZGWX0LWBmkqBjQYTgZYXheqBgmlRizEUpcLEeFYvmZkUcsrUEJJrWkcBJDyvjkZ+a/mVGmoSiMjhrR1L4bw5kCH6sfLfcpXLfwWWdkgXefmIgOCPL4rliDFRA0WUtI3UUupvQsKGkoYyHMDjda9dtiFnuXQftmqSR1ORy44rzATElejtK7bCNaK6P/5dWKpUUiV4/WnBYSidmd30hudTX6OoP2+1Oe76AWwgTBgfgB3q5qDPKY7ZA==</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tuIuvvtE3gfD2RhyvEdzsLACyI0V8E5qRT3M0RahBc3Wa+C9G82VCK1hpW1LL8ssRK5uPYmvVmuIihp4Hlocr5fd4gMmHVLTEjhQOxIKjzoSuE5ja7xQ+BzXAZ7RLu3pzTBTxQMVLUg2889Ha6dPkrh4/NWm2zw/aSaDjRvTROTmukRGMCfct3EYR091lb0f7Kqneb6o0cXPaF9B6HrEgm6eBsHH5yXdVgLptR2sQIbtxzyJ40jd6wP+B90/Vu3Qbkz93YIomdpz3Ib5F/5vbxScd2nVkF51m5k2A7wCKXviGSpA8518vcS+olwX23WBBf0wyWBGj1f+A6dtizhaIQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="45a5eae40a5b5fab0dae5463a207a3ac1498695c" Description="" Url=""><as:assemblyIdentity name="TextEncrypter.exe" version="1.0.0.5" publicKeyToken="d631dcda0cd3ace7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Kanaan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>xC9yXfOJlvEM/V4CKDut/U+sNXM=</DigestValue></Reference></SignedInfo><SignatureValue>N9qrS7zpqooxxm3LcYQBGL6AkPF6elsdjmnztGAJu/tRqV2PwNM87G6zMrtEbJt7EagNzWTxXpjOP9otMJ/WbZyHjpv8IoIRb34OBRHTKG3TUs9ZFWTfMLs9sewjimJLPHmfzeDPr/sSQxkneUttDalXecngKDwwgFIv7XM0M2QMPovdR8SvlUrs5gr59aSIL/VR66EO8WHOr+TIx9ZawoqTYKP6EonEMZHNnPxefvoS+HYCu9kgKqJ+FzIJmOuoLu+bL4x0qCyhKjjgxcSG0oDnOR4NlT14dxYdJwm4NET/09zcxCUtzIhfMRxQFP3GVBttI4LmoMHN3geB2sGtfQ==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tuIuvvtE3gfD2RhyvEdzsLACyI0V8E5qRT3M0RahBc3Wa+C9G82VCK1hpW1LL8ssRK5uPYmvVmuIihp4Hlocr5fd4gMmHVLTEjhQOxIKjzoSuE5ja7xQ+BzXAZ7RLu3pzTBTxQMVLUg2889Ha6dPkrh4/NWm2zw/aSaDjRvTROTmukRGMCfct3EYR091lb0f7Kqneb6o0cXPaF9B6HrEgm6eBsHH5yXdVgLptR2sQIbtxzyJ40jd6wP+B90/Vu3Qbkz93YIomdpz3Ib5F/5vbxScd2nVkF51m5k2A7wCKXviGSpA8518vcS+olwX23WBBf0wyWBGj1f+A6dtizhaIQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIDHjCCAgqgAwIBAgIQHXEqFw/rdLhDYBmnoOqVEzAJBgUrDgMCHQUAMBExDzANBgNVBAMTBkthbmFhbjAgFw0yMTAzMDUwNjE5MzBaGA8yMDk5MTIzMDE2MDAwMFowETEPMA0GA1UEAxMGS2FuYWFuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtuIuvvtE3gfD2RhyvEdzsLACyI0V8E5qRT3M0RahBc3Wa+C9G82VCK1hpW1LL8ssRK5uPYmvVmuIihp4Hlocr5fd4gMmHVLTEjhQOxIKjzoSuE5ja7xQ+BzXAZ7RLu3pzTBTxQMVLUg2889Ha6dPkrh4/NWm2zw/aSaDjRvTROTmukRGMCfct3EYR091lb0f7Kqneb6o0cXPaF9B6HrEgm6eBsHH5yXdVgLptR2sQIbtxzyJ40jd6wP+B90/Vu3Qbkz93YIomdpz3Ib5F/5vbxScd2nVkF51m5k2A7wCKXviGSpA8518vcS+olwX23WBBf0wyWBGj1f+A6dtizhaIQIDAQABo3gwdjAPBgNVHRMBAf8EBTADAgEAMB8GA1UdJQQYMBYGCCsGAQUFBwMDBgorBgEEAYI3CgMNMEIGA1UdAQQ7MDmAEMQjMI14wQ84+0/hRICcHi2hEzARMQ8wDQYDVQQDEwZLYW5hYW6CEB1xKhcP63S4Q2AZp6DqlRMwCQYFKw4DAh0FAAOCAQEAUQtCaebt2g+JmW/d8H9liJRHraXki797AdZKQcOJQ9Tuj7oUkIA9ewPx6ZMqtWd2BYL8ETMkhnnHUI7RuCAM9m81FROii8/QLy+rBHYNDAJS2GM3xqDdu6mm+khJfc5tCrNtTDHU0Jr71Ub7PeylmWDRwgfVy3i1QtFKeBpzFfAev67K9KQwlTleQNdoU186IIkJgl2bkROjyHhxUXNzyuJzEv5FttN9JQt8Q2m2RL5riiy0b3xPcR03x9Rqqef7E/VT4iTGYSAsNOieo+jGcNoi8/5XSxP2h+x+txC8rTBXU5bwEYFvvariVaKznQRcY77dG8IptOIcUHJ8DTpNCg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=Kanaan" issuerKeyHash="c177198f846d60817f66ab5369d04580bee5ccd8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>FYE4SNfc4UnBQriFu3jHyBHDvq4=</DigestValue></Reference></SignedInfo><SignatureValue>EK0CtO7FlgBtSDpXxSxrheH1mh3e/dNHYxwRPvGy9Z8eOSduwevoWtwynvzCed2ZWxzZHzEuLSi7D71N5Ji0217lkc++lxOgQuffHoyFuMpmZuH2/5X9A0yAR7r4QelRlhSiHZZIQkpqUnLrKzdT7bDD6xmKq6j/Avjsmeh+17yCsgOnwZyh6RfxDU8x5/7InUtmghBh+52M8/XzyJ9FFDD1t7L/5XWLuP9EsnRe9bF6y6A3SRiFMzo5Ni5axISaVGVn77TdgzrFBcZ4NW4NnTMGwpW0nfZ2bk+1C+1U8jgWZRkLD2ZlDXifAgkKfxevQrwCttsmu0pSphB6JGC9gg==</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tuIuvvtE3gfD2RhyvEdzsLACyI0V8E5qRT3M0RahBc3Wa+C9G82VCK1hpW1LL8ssRK5uPYmvVmuIihp4Hlocr5fd4gMmHVLTEjhQOxIKjzoSuE5ja7xQ+BzXAZ7RLu3pzTBTxQMVLUg2889Ha6dPkrh4/NWm2zw/aSaDjRvTROTmukRGMCfct3EYR091lb0f7Kqneb6o0cXPaF9B6HrEgm6eBsHH5yXdVgLptR2sQIbtxzyJ40jd6wP+B90/Vu3Qbkz93YIomdpz3Ib5F/5vbxScd2nVkF51m5k2A7wCKXviGSpA8518vcS+olwX23WBBf0wyWBGj1f+A6dtizhaIQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="aebec311c8c778bb85b842c149e1dcd748388115" Description="" Url=""><as:assemblyIdentity name="TextEncrypter.exe" version="1.0.0.5" publicKeyToken="d631dcda0cd3ace7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Kanaan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>sP3jHxiaMUlPKnHhLMNlfjs0bhY=</DigestValue></Reference></SignedInfo><SignatureValue>NoWa975e0tdTKhTkp/Nuw0wnIBPiEekWPT59zHWhC6HSK36aATHrSiX3ORWYy+S3DXC/0Fd6RVckdVCXZyrIyi+FOvFwvE7P9WgVfiOm1CKxPsu2FQXIXjQoSztEh9gJmHnVTcpNu0bSkHxzHlyeJCTAuwxmljuB3zvsu+Ggz2xasTQVImE7zENNaf7SdCHb7igiO4XfUvvhGMMQ0udWiAcfm4ukVQJvp1PX9ljLdvy/CKxnFW/qh/1GXGMsO8xhQ7cG87zCfUDwkJhSzlOckMSaQYif46eOc/8sV30C0ozTBI7iq8lB2ygdKaY2gnUqhhazz4rcXOg1yXZzMBgr/A==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tuIuvvtE3gfD2RhyvEdzsLACyI0V8E5qRT3M0RahBc3Wa+C9G82VCK1hpW1LL8ssRK5uPYmvVmuIihp4Hlocr5fd4gMmHVLTEjhQOxIKjzoSuE5ja7xQ+BzXAZ7RLu3pzTBTxQMVLUg2889Ha6dPkrh4/NWm2zw/aSaDjRvTROTmukRGMCfct3EYR091lb0f7Kqneb6o0cXPaF9B6HrEgm6eBsHH5yXdVgLptR2sQIbtxzyJ40jd6wP+B90/Vu3Qbkz93YIomdpz3Ib5F/5vbxScd2nVkF51m5k2A7wCKXviGSpA8518vcS+olwX23WBBf0wyWBGj1f+A6dtizhaIQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIDHjCCAgqgAwIBAgIQHXEqFw/rdLhDYBmnoOqVEzAJBgUrDgMCHQUAMBExDzANBgNVBAMTBkthbmFhbjAgFw0yMTAzMDUwNjE5MzBaGA8yMDk5MTIzMDE2MDAwMFowETEPMA0GA1UEAxMGS2FuYWFuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtuIuvvtE3gfD2RhyvEdzsLACyI0V8E5qRT3M0RahBc3Wa+C9G82VCK1hpW1LL8ssRK5uPYmvVmuIihp4Hlocr5fd4gMmHVLTEjhQOxIKjzoSuE5ja7xQ+BzXAZ7RLu3pzTBTxQMVLUg2889Ha6dPkrh4/NWm2zw/aSaDjRvTROTmukRGMCfct3EYR091lb0f7Kqneb6o0cXPaF9B6HrEgm6eBsHH5yXdVgLptR2sQIbtxzyJ40jd6wP+B90/Vu3Qbkz93YIomdpz3Ib5F/5vbxScd2nVkF51m5k2A7wCKXviGSpA8518vcS+olwX23WBBf0wyWBGj1f+A6dtizhaIQIDAQABo3gwdjAPBgNVHRMBAf8EBTADAgEAMB8GA1UdJQQYMBYGCCsGAQUFBwMDBgorBgEEAYI3CgMNMEIGA1UdAQQ7MDmAEMQjMI14wQ84+0/hRICcHi2hEzARMQ8wDQYDVQQDEwZLYW5hYW6CEB1xKhcP63S4Q2AZp6DqlRMwCQYFKw4DAh0FAAOCAQEAUQtCaebt2g+JmW/d8H9liJRHraXki797AdZKQcOJQ9Tuj7oUkIA9ewPx6ZMqtWd2BYL8ETMkhnnHUI7RuCAM9m81FROii8/QLy+rBHYNDAJS2GM3xqDdu6mm+khJfc5tCrNtTDHU0Jr71Ub7PeylmWDRwgfVy3i1QtFKeBpzFfAev67K9KQwlTleQNdoU186IIkJgl2bkROjyHhxUXNzyuJzEv5FttN9JQt8Q2m2RL5riiy0b3xPcR03x9Rqqef7E/VT4iTGYSAsNOieo+jGcNoi8/5XSxP2h+x+txC8rTBXU5bwEYFvvariVaKznQRcY77dG8IptOIcUHJ8DTpNCg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
